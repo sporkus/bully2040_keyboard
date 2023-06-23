@@ -1,6 +1,1 @@
-[submodule "pcb/MX_V2"]
-	path = pcb/Libraries/MX_V2
-	url = https://github.com/ai03-2725/MX_V2.git
-[submodule "pcb/Libraries/random-keyboard-parts.pretty"]
-	path = pcb/Libraries/random-keyboard-parts.pretty
-	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
+
