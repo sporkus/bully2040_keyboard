@@ -7,11 +7,11 @@ This is an opensource pcb made for [Bully keyboard](https://mkh.works/#bully).
 - No big bar
 - MX/Alps
 - Capslock LED
-- EC11 encoder 
+- EC11 encoder
 - RP2040
 
 ### Supported layouts
-![](img/layouts.png)
+![](img/layout.png)
 
 ### Production files
 JLCPCB [production files](pcb/production) are provided. Component positions have been verified, but as always, do your own diligence when odering.
