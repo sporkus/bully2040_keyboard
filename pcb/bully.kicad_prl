@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 38,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -21,7 +21,7 @@
       "keepouts": true,
       "lockedItems": true,
       "otherItems": true,
-      "pads": false,
+      "pads": true,
       "text": true,
       "tracks": true,
       "vias": true,
@@ -37,6 +37,7 @@
       8,
       9,
       10,
+      11,
       12,
       13,
       15,
@@ -61,8 +62,8 @@
       35,
       40
     ],
-    "visible_layers": "fbefdff_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "fbefdef_ffffffff",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "bully.kicad_prl",
