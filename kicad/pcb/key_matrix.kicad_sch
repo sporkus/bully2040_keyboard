@@ -5,10 +5,11 @@
   (paper "A4")
 
   (title_block
-    (title "Bully2040 - MX/Alps")
+    (title "Bully2040")
     (date "2023-06-23")
-    (rev "0.1")
+    (rev "0.2")
     (company "sporkus")
+    (comment 1 "adding alps and layout options")
   )
 
   (lib_symbols
