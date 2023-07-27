@@ -36,5 +36,5 @@ jobs:
 
     - uses: EndBug/add-and-commit@v9
       with:
-        add: 'plate documentation'
+        add: 'documentation'
         message: '[kibot]'
