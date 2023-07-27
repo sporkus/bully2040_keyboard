@@ -17,6 +17,6 @@ This is an opensource pcb made for [Bully keyboard](https://mkh.works/#bully).
 JLCPCB [production files](production) are provided. Component positions have been verified, but as always, do your own diligence when ordering.
 
 ### PCB
-![](documentation/pcb_front.png)
-![](documentation/pcb_back.png)
+![](documentation/bully-top.jpg)
+![](documentation/bully-bottom.jpg)
 
