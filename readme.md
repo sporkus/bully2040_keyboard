@@ -11,12 +11,12 @@ This is an opensource pcb made for [Bully keyboard](https://mkh.works/#bully).
 - RP2040
 
 ### Supported layouts
-![](img/layout.png)
+![](documentation/layout.png)
 
 ### Production files
-JLCPCB [production files](pcb/production) are provided. Component positions have been verified, but as always, do your own diligence when ordering.
+JLCPCB [production files](production) are provided. Component positions have been verified, but as always, do your own diligence when ordering.
 
 ### PCB
-![](img/pcb_front.png)
-![](img/pcb_back.png)
+![](documentation/pcb_front.png)
+![](documentation/pcb_back.png)
 
