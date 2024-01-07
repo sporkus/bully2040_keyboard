@@ -8,3 +8,6 @@ Hardware required:
 - 4x: [SKUF](https://github.com/Zambumon/SKUF) feet
 
 See the step file for assembly reference.
+
+![](./top.png)
+
